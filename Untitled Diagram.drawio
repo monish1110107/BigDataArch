@@ -1,4 +1,4 @@
-<mxfile modified="2023-03-20T14:43:48.910Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jfpLLHdDAiisuLaqddp1" version="21.0.8" type="github">
+<mxfile modified="2023-03-20T14:46:25.513Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vRB_HKfseIL1kQjAVIX_" version="21.0.8" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="4830" dy="3922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,6 +437,9 @@
         </mxCell>
         <mxCell id="ouM1lThFgJluQJRu7djm-207" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" vertex="1" parent="1">
           <mxGeometry x="805" y="-1818" width="70" height="64.17" as="geometry" />
+        </mxCell>
+        <mxCell id="ouM1lThFgJluQJRu7djm-212" value="Same VNET but different Subnet&lt;br&gt;Service Bus with Premium Tire&lt;br&gt;having queue and subscription configured" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1368" y="-405" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
