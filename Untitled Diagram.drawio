@@ -1,6 +1,6 @@
-<mxfile modified="2023-03-20T12:07:08.583Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3eqdZ059JoNYngtfj_Gm" version="21.0.8" type="github">
+<mxfile modified="2023-03-20T13:03:51.496Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rPRiquIFKG44qFzzqyqk" version="21.0.8" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="2812" dy="3328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4797" dy="4318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,14 +151,35 @@
         <mxCell id="ouM1lThFgJluQJRu7djm-89" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=pod" vertex="1" parent="ouM1lThFgJluQJRu7djm-90">
           <mxGeometry x="175.5952380952381" y="91.9245283018868" width="74.40476190476191" height="76.0754716981132" as="geometry" />
         </mxCell>
-        <mxCell id="ouM1lThFgJluQJRu7djm-94" value="PODs / Node Pool" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="ouM1lThFgJluQJRu7djm-94" value="PODs / Node Pool&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="424" y="-710" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ouM1lThFgJluQJRu7djm-95" value="AKS Cluster with LB Service&amp;nbsp;&lt;br&gt;for only internal IP addresses" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="138.5" y="-720" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ouM1lThFgJluQJRu7djm-98" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="-1140" width="230" height="580" as="geometry" />
+          <mxGeometry x="730" y="-1130" width="120" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="ouM1lThFgJluQJRu7djm-99" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Service_Bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="755" y="-870" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ouM1lThFgJluQJRu7djm-100" value="Service" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-970" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ouM1lThFgJluQJRu7djm-101" value="Bus" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-744" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ouM1lThFgJluQJRu7djm-102" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="-1130" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ouM1lThFgJluQJRu7djm-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ouM1lThFgJluQJRu7djm-102">
+          <mxGeometry x="160" y="-5" width="110" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ouM1lThFgJluQJRu7djm-108" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=pod" vertex="1" parent="ouM1lThFgJluQJRu7djm-102">
+          <mxGeometry x="175.5952380952381" width="74.40476190476191" height="76.0754716981132" as="geometry" />
+        </mxCell>
+        <mxCell id="ouM1lThFgJluQJRu7djm-111" value="" style="line;strokeWidth=2;direction=south;html=1;rotation=45;" vertex="1" parent="ouM1lThFgJluQJRu7djm-102">
+          <mxGeometry x="133.54" y="81.46" width="10" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
